@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.blue-nav{
+  display: flex;
+  background: #B4E4FF;
+  width:100%;
+  color:black;
+  padding-left: 20px;
+  font-size: 30px;
+  font-style: oblique;
+}
+div{
+  box-sizing: border-box;
+}
+.list{
+  padding-left: 20px;
+  text-align: left;
+  border-bottom: 4px solid #95BDFF;
+}
+.modal {
+  margin-top:20px;
+  padding: 20px;
+  background:#DFFFD8;
+  text-align: left;
+}
